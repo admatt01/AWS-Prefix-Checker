@@ -2,6 +2,7 @@
 
 import boto3
 import ipaddress
+from tabulate import tabulate
 
 def main():
     while True:
