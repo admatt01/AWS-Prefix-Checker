@@ -1,6 +1,6 @@
 # AWS Prefix Checker
 
-A python script that checks your AWS VPCs' subnets and route tables for overlaps to aid with planning additions and changes.
+A python script that checks your AWS VPCs' subnets and route tables for overlaps to aid with planning additions, changes and troubleshooting.
 
 ---
 
