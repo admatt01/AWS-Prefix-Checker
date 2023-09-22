@@ -36,7 +36,7 @@ Once this is done the python script is ready to be run and will call on these cr
 ---
 ### Usage
 
-The application is mostly self explanortory and will prompt you with simple inputs.
+The application is mostly self explanatory and will prompt you with simple inputs.
 
 Navigate to the folder containing **prefix-check.py** and run the application:
 *Note that on Linux systems you may need to make the file executable. You can do this with: 
@@ -47,8 +47,8 @@ Run the application:
 ```
 ./prefix-check.py
 ``````
-  ### Usage examples 
-  Checking for prefix 172.28.1.0/24 in existing CIDR ranges or route tables. The script will tell you if there is a less specific major net or super net that your prefix query overlaps with and print details of route table entries. It can optionally display the entire route table contents and status including blackholed routes and which route tables contain the prefixes.
+### Usage examples 
+Checking for prefix 172.28.1.0/24 in existing CIDR ranges or route tables. The script will tell you if there is a less specific major net or super net that your prefix query overlaps with and print details of route table entries. It can optionally display the entire route table contents and status including blackholed routes and which route tables contain the prefixes.
 ```
 Enter your AWS region: us-east-1
 Enter your VPC ID: vpc-0c095012f2bc3e74e
