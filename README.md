@@ -24,7 +24,7 @@ Clone the repository to your environment with https://github.com/admatt01/AWS-Pr
 
 The script uses the AWS SDK (Boto3) to read CIDR, Subnet and routing information from your AWS VPC's. To do this it requires programmatic access to your AWS account. This can be obtained by creating Access keys associated with an IAM user that has sufficient privileges for the information Boto3 requires.
 
-- Create an IAM user with sufficient privilegs. I am using AdministratorAccess Policy but a **better practise** would be to use a less privileged policy if possible such as AmazonVPCReadOnlyAccess (below)
+- Create an IAM user with sufficient privileges. I am using AdministratorAccess Policy but a **better practise** would be to use a less privileged policy if possible such as AmazonVPCReadOnlyAccess (below)
 
 ![Alt text](image.png)
 
