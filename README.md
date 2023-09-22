@@ -12,7 +12,7 @@ In addition to Python3, the script has the following python dependencies.
 - [Boto3 AWS SDK](https://aws.amazon.com/sdk-for-python/)
 - [ipaddress](https://pypi.org/project/ipaddress/)
 
-#### Optionally use the [AWS CLI](https://aws.amazon.com/cli/) to setup and manage security credentials for Boto3 access
+#### Optionally use [AWS CLI](https://aws.amazon.com/cli/) to setup and manage security credentials for Boto3 access
 ---
 
 ### Installation
